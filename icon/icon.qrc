@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>24gl-stop.png</file>
+        <file>aloud.png</file>
+        <file>play.png</file>
+        <file>open_file.png</file>
+        <file>mute.png</file>
+        <file>pause.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
